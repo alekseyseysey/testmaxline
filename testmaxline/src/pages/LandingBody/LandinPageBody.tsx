@@ -1,7 +1,7 @@
 import './LandinPageBody.scss';
 import olympusImg from '../../assets/olympus.png';
 import effectImg from '../../assets/effect1.png';
-import logoImg from '../../assets/logo.png';
+import logoImg from '../../assets/Logo.png';
 import goldImg from '../../assets/Gold2.png';
 import goldSecondImg from '../../assets/Gold.png';
 import freeSpinsImg from '../../assets/freespin.png';
